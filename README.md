@@ -78,7 +78,7 @@
         <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb" alt="Tech Stack"/>
       </p>
       <p align="center">
-        <a href="https://github.com/gauravcodes-tech/Used-Cars">
+        <a href="https://github.com/anassssss653/used-car-marketplace">
           <img src="https://img.shields.io/badge/View%20Project-GitHub-181717?style=for-the-badge&logo=github" alt="View Used-Cars"/>
         </a>
       </p>
@@ -92,7 +92,7 @@
         <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js"/>
       </p>
       <p align="center">
-        <a href="https://github.com/gauravcodes-tech/backend-project">
+        <a href="https://github.com/anassssss653/backend-project">
           <img src="https://img.shields.io/badge/View%20Project-GitHub-181717?style=for-the-badge&logo=github" alt="View Backend Project"/>
         </a>
       </p>
@@ -100,9 +100,9 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🎮 Rock-Paper-Scissors</h3>
+      <h3 align="center">🎮 </h3>
       <p align="center">
-        A simple interactive Rock-Paper-Scissors game built using HTML, CSS and JavaScript.
+        A simple interactive built using HTML, CSS and JavaScript.
       </p>
       <p align="center">
         <img src="https://skillicons.dev/icons?i=html,css,js" alt="Tech Stack"/>
@@ -122,7 +122,7 @@
         <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js"/>
       </p>
       <p align="center">
-        <a href="https://github.com/gauravcodes-tech">
+        <a href="https://github.com/anassssss653">
           <img src="https://img.shields.io/badge/Explore%20Repositories-GitHub-181717?style=for-the-badge&logo=github" alt="Explore GitHub"/>
         </a>
       </p>
@@ -130,22 +130,9 @@
   </tr>
 </table>
 
----
-
-
-## 🎯 Current Goals
-
-* 🌐 Improve my Full Stack and Backend Development skills
-* 🔐 Explore Cybersecurity, Network Security and Ethical Hacking
-* 🧠 Strengthen my problem-solving, networking and system design fundamentals
-* 🚀 Build practical projects that solve real-world problems
-* 📚 Continue learning and growing in the field of technology
 
 ---
 
-<p align="center">
-  <i>"Learning, building, and securing the digital world one step at a time."</i>
-</p>
 
 <p align="center">
   ⭐ Feel free to explore my repositories and connect with me! ⭐

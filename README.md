@@ -4,7 +4,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=anassssss653&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views"/>
-  <a href="https://github.com/gauravcodes-tech?tab=followers">
+  <a href="https://github.com/anassssss653?tab=followers">
     <img src="https://img.shields.io/github/followers/anassssss653?label=Followers&style=flat-square&logo=github" alt="GitHub Followers"/>
   </a>
 </p>
@@ -14,12 +14,12 @@
 ## 👨‍💻 About Me
 
 * 🎓 Pursuing **BCA (Full Stack Development)** at Jagannath University NCR, Haryana.
-* 💻 Interested in **Full Stack Development & Cybersecurity.**
+* 💻 Interested in **Full Stack Development.**
 * 🌱 Learning **React.js, Node.js, Backend Development & System Design.**
-* 🔐 Passionate about **Cybersecurity, Network Security & Ethical Hacking.**
+* 🔐 Passionate about **WEB DEVELOPMENT.**
 * 🧩 Enjoy building practical applications and exploring new technologies.
-* 🎯 Aspiring to grow in **Cybersecurity and Software Development.
-* 🔐 My main focus is Cybersecurity and networking.**
+* 🎯 Aspiring to grow in **Software Development.
+* 🔐 My main focus is MERN STACK.**
 
 ---
 
@@ -56,13 +56,6 @@
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" alt="Backend and Database Technologies"/>
 </p>
 
-### 🔐 Cybersecurity Interests
-
-<p>
-  <img src="https://img.shields.io/badge/Cybersecurity-1E3A8A?style=for-the-badge&logo=shield&logoColor=white" alt="Cybersecurity"/>
-  <img src="https://img.shields.io/badge/Network%20Security-374151?style=for-the-badge&logo=linux&logoColor=white" alt="Network Security"/>
-  <img src="https://img.shields.io/badge/Ethical%20Hacking-111827?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Ethical Hacking"/>
-</p>
 
 ### 🔧 Tools & Platforms
 
